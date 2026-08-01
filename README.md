@@ -1,0 +1,1 @@
+An AI-powered Health Assistant built with Python, Streamlit, and Google Gemini AI that provides instant responses to health-related questions. The application offers general guidance on fitness, nutrition, healthy lifestyle practices, common medical conditions, and wellness using Google's Gemini large language model.
